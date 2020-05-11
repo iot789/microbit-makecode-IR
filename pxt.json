@@ -1,0 +1,25 @@
+{
+    "name": "ir_remote",
+    "version": "1.0.12",
+    "description": "跟小威学编程 红外遥控扩展",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "ir.ts",
+        "_locales/zh/ir_remote-strings.json",
+        "_locales/zh/ir_remote-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "installedVersion": "workspace:af63ec4b-2b71-4565-e69f-3ee150fbcb65"
+}
